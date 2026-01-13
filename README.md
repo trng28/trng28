@@ -4,4 +4,3 @@ I'm a **Data Scientist & Analytics Engineer** with hands-on experience building 
 - Recommender System
 - Natural Language Processing (NLP)
 - Conversational AI
-- Production AI & MLOps
