@@ -13,7 +13,7 @@ I build end-to-end, production-ready AI solutions across Machine Learning, Deep 
 My experience spans the full AI lifecycle from data collection and engineering to model development, deployment, evaluation, and monitoring.
 
 
-## Areas of Interest
+## Research & Development 
 Currently conducting research and development on AI solutions for **Map Intelligence, Urban Mobility, and Ride-hailing Applications**, including:
 
 * Geospatial NLP and Spatial Reasoning
