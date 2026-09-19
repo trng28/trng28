@@ -21,7 +21,7 @@ My experience spans the full AI lifecycle from data collection and engineering t
 
 ## Technical Skills
 
-* **Programming Languages:** Python, TypeScript, JavaScript, SQL
+* **Programming Languages:** Python, TypeScript, JavaScript, SQL, Golang
 * **Frontend:** React, Next.js, Vite, Tailwind CSS
 * **Backend:** FastAPI, REST APIs, SQLAlchemy
 * **AI & Machine Learning:** PyTorch, Transformers, Hugging Face, LangChain, LangGraph
