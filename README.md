@@ -6,12 +6,12 @@
 ## About Me
 
 **Data Scientist · AI Engineer · Data Engineer · AI Software Engineer**
+> Outsourcing Projects · Product Development · AI Research
+
 
 I build end-to-end, production-ready AI solutions across Machine Learning, Deep Learning, Natural Language Processing, and Large Language Models.
-
 My experience spans the full AI lifecycle from data collection and engineering to model development, deployment, evaluation, and monitoring.
 
-> Outsourcing Projects · Product Development · AI Research
 
 ## Areas of Interest
 Currently conducting research and development on AI solutions for **Map Intelligence, Urban Mobility, and Ride-hailing Applications**, including:
