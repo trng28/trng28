@@ -5,7 +5,7 @@
 
 ## About Me
 
-**Data Scientist · AI Engineer · Data Engineer** 
+**Data Scientist · AI Engineer · Data Engineer · AI Software Engineer** 
 
 Hands-on experience in building end-to-end AI solutions, including Machine Learning, Deep Learning, Natural Language Processing (NLP), and Large Language Model (LLM)-based systems. I specialize in transforming data into production-ready AI applications, covering the entire lifecycle from data engineering and model development.
 > Outsourcing Projects · Product Development
