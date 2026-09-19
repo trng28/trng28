@@ -14,10 +14,12 @@ My experience spans the full AI lifecycle from data collection and engineering t
 > Outsourcing Projects · Product Development · AI Research
 
 ## Areas of Interest
+Currently conducting research and development on AI solutions for **Map Intelligence, Urban Mobility, and Ride-hailing Applications**, including:
 
-* Natural Language Processing
-* Recommender Systems
-* Data Engineering and MLOps
+* Geospatial NLP and Spatial Reasoning
+* Map Intelligence and Geographic Information Retrieval
+* Location-based Recommendation and Contextual Ranking
+* Driver–passenger matching and dispatch optimization
 
 ## Technical Skills
 
@@ -29,4 +31,3 @@ My experience spans the full AI lifecycle from data collection and engineering t
 * **Databases:** PostgreSQL, MySQL, pgvector, Redis
 * **MLOps & DevOps:** Docker, Git, GitHub Actions, GitLab CI/CD, automated testing
 * **Cloud & AI Platforms:** Azure, GCP, Snowflake
-* **Engineering Practices:** CI/CD, data pipelines, API integration, monitoring, human-in-the-loop workflows
